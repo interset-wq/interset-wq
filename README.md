@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @interset-wq
-- 👀 I’m interested in `Python`, `JavaScript`, `TypeScript` and so on.
-- 🌱 I’m currently learning BIM.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a student, majoring in Civil Engineering. I like programing in my free time. But I am too busy to learn JavaScript these days.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
-<!---
-interset-wq/interset-wq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+
+👋 Hi, I’m @interset-wq
+
+<details>
+<summary>My top Languages</summary>
+
+| Rank | Languages |
+|-----:|---------------|
+|     1| Python |
+|     2| Javascript |
+|     3| C |
+
+</details>
+
+---
+
+> If we pull together and commit ourselves, then we can push through anything.
+
+
