@@ -1,26 +1,40 @@
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture> -->
+# 👋 Hi, I'm @interset-wq
 
-## About me
-
-👋 Hi, I’m @interset-wq
-
-<details>
-<summary>My top Languages</summary>
-
-| Rank | Languages |
-|-----:|---------------|
-|     1| Python |
-|     2| Javascript |
-|     3| C |
-
-</details>
+I'm a civil engineering student exploring programming, web scraping, and data pipelines.
+This is my public space to learn, experiment, and document my coding journey.
 
 ---
 
-> If we pull together and commit ourselves, then we can push through anything.
+## 📊 GitHub Activity & Stats
 
+### 📈 Basic Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=interset-wq&show_icons=true&theme=radical&hide_border=true)
 
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=interset-wq&layout=compact&theme=radical&hide_border=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=interset-wq&theme=radical&hide_border=true)
+
+### 📅 Contribution Calendar
+![Contribution Graph](https://ghchart.rshah.org/2196F3/interset-wq)
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=interset-wq&color=blue)
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Python, JavaScript, SQL
+- Tools & Platforms: Git, GitHub, VS Code, Supabase, PostgreSQL
+- Current Focus: Web scraping, data processing, and database design
+
+---
+
+## 📫 How to Reach Me
+- Email: intersetwq@gmail.com
+- freeCodeCamp: [intersetwq](https://www.freecodecamp.org/intersetwq)
+
+---
+
+> *If we pull together and commit ourselves, then we can push through anything.*
