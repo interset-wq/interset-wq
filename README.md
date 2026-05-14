@@ -8,11 +8,11 @@ I'm a civil engineering student exploring programming, web scraping, and backend
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interset-wq&layout=compact&theme=radical&hide_border=true" width="400">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs/?username=interset-wq&layout=compact&theme=radical&hide_border=true" width="400">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=interset-wq&show_icons=true&theme=radical&hide_border=true" width="480">
+  <img src="https://readme-stats-github.pages.dev/api?username=interset-wq&show_icons=true&theme=radical&hide_border=true" width="480">
 </p>
 
 <p align="center">
