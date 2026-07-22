@@ -16,6 +16,10 @@ A civil engineering student passionate about building things with code. I love e
   <img src="./profile/stats.svg" width="480">
 </p>
 
+<p align="center">
+  <img src="./profile/streak.svg" width="480">
+</p>
+
 ## Featured Project
 
 <p align="center">
