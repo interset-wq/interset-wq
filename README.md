@@ -16,8 +16,24 @@ A civil engineering student passionate about building things with code. I love e
   <img src="./profile/stats.svg" width="480">
 </p>
 
+## Pinned Projects
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/2196F3/interset-wq" width="600">
+  <a href="https://github.com/interset-wq/pdf-tool">
+    <img src="./profile/pin-pdf-tool.svg">
+  </a>
+  <a href="https://github.com/interset-wq/iw-generator">
+    <img src="./profile/pin-iw-generator.svg">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/interset-wq/learn-nlp">
+    <img src="./profile/pin-learn-nlp.svg">
+  </a>
+  <a href="https://github.com/interset-wq/learn-rn">
+    <img src="./profile/pin-learn-rn.svg">
+  </a>
 </p>
 
 ## What I'm Working On

@@ -31,6 +31,38 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin cards
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=pdf-tool&theme=radical&hide_border=true
+          path: profile/pin-pdf-tool.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for iw-generator
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=iw-generator&theme=radical&hide_border=true
+          path: profile/pin-iw-generator.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for learn-nlp
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=learn-nlp&theme=radical&hide_border=true
+          path: profile/pin-learn-nlp.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card for learn-rn
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=learn-rn&theme=radical&hide_border=true
+          path: profile/pin-learn-rn.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           mkdir -p profile
